@@ -66,3 +66,5 @@ Todos os requisitos obrigatórios foram entregues
 ### Frontend
 
 - Criar o arquivo .env utilizando como base o .env.example e configurar a variavel que guarda o endereço base da api, sem esquecer de por o http://
+
+## OBS: deixei disponível uma collection do postman
